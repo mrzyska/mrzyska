@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @mrzyska
-- 📫 How to reach me ... Good question:)
+Welcome to my repo!
 
 <!---
 mrzyska/mrzyska is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
